@@ -1,3 +1,4 @@
+// test git connection
 $(document).ready(function() {
 
   var num = $('.num');
